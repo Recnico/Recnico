@@ -6,8 +6,6 @@
 
 ## 👤 Sobre mí
 
-Soy **Nicolás Andrés Pérez Cerda**, Ingeniero en Conectividad y Redes, y actualmente me dedico a **Soporte Tecnológico**, buscando la reconversión profesional hacia la **Ciberseguridad**.
-
 **Mi Trayectoria:**
 * Ingeniero en Conectividad y Redes (IP San Sebastián).
 * Experiencia en **NOC de Monitoreo**.
