@@ -7,7 +7,9 @@
 ## 👤 Sobre mí
 
 <p align="center">
-  <img src="images/foto_perfil.png" width="150" style="border-radius: 50%;" />
+  <img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d5eae330-800e-424c-a65b-88184eca481e" />
+![Uploading image.png…]()
+" width="150" style="border-radius: 50%;" />
 </p>
 
 **Mi Trayectoria:**
