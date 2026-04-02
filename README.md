@@ -6,9 +6,6 @@
 
 ## 👤 Sobre mí
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d5eae330-800e-424c-a65b-88184eca481e" width="150" />
-</p>
 **Mi Trayectoria:**
 * Ingeniero en Conectividad y Redes (IP San Sebastián).
 * Experiencia en **NOC de Monitoreo**.
