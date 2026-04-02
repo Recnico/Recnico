@@ -6,7 +6,7 @@
 
 ## 👤 Sobre mí
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8d14c1eb-ddb1-4456-a7f7-c11257fedfd8" />
+<img src="[images/tu_imagen.png](https://github.com/user-attachments/assets/8d14c1eb-ddb1-4456-a7f7-c11257fedfd8)" width="150" style="border-radius: 50%;" />
 
 **Mi Trayectoria:**
 * Ingeniero en Conectividad y Redes (IP San Sebastián).
