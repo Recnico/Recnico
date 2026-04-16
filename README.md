@@ -1,7 +1,10 @@
+# 🛡️ Portafolio de Nicolás Pérez Cerda
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
 ## 👤 Sobre mí
-
-
-
 
 **Mi Trayectoria:**
 * Ingeniero en Conectividad y Redes (IP San Sebastián).
