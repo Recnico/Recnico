@@ -6,13 +6,14 @@
 
 ## 👤 Sobre mí
 
-**Mi Trayectoria:**
-* Ingeniero en Conectividad y Redes (IP San Sebastián).
-* Experiencia en **NOC de Monitoreo**.
-* Formación continua en Ciberseguridad y Python.
+**Ingeniero en Conectividad y Redes** con más de 10 años de experiencia técnica, especializado en la intersección de **Ciberseguridad y Análisis de Datos**. Mi trayectoria se ha centrado en el monitoreo de infraestructura crítica (NOC) y la protección de entornos corporativos, habilidades que hoy potencio con capacidades  de programación y analítica.
 
-**¿Por qué contactarme?**
-Soy una persona **responsable, proactiva** y con una fuerte motivación por el aprendizaje constante.
+**¿Por qué mi perfil encaja en un SOC?**
+* **Pensamiento Analítico:** Capacidad para transformar grandes volúmenes de logs y tráfico de red en información accionable mediante Python (Pandas/NumPy) y Power BI.
+* **Base Técnica Sólida:** Amplio dominio en configuración de Firewalls (Cisco ASA), monitoreo SIEM (Wazuh) y análisis forense con Wireshark.
+* **Enfoque en Resultados:** Elaboración de informes técnicos de fallas y seguimiento de SLAs en entornos de alta exigencia como Carabineros de Chile.
+
+Mi objetivo es aplicar la ciencia de datos para anticipar amenazas, optimizar el procesamiento de eventos de seguridad y fortalecer la resiliencia operativa de la infraestructura.
 ---
 ## 🛠️ Habilidades destacadas
 
